@@ -1,0 +1,3615 @@
+{
+  "apple": {
+    "company": "Apple",
+    "cached_at": "2025-12-12T08:07:58.095706Z",
+    "candidates": [
+      {
+        "confidence": 0.9,
+        "url": "https://investor.apple.com/investor-relations/default.aspx",
+        "method": "serp",
+        "discovered_at": "2025-12-12T08:07:55.809003Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.9,
+        "url": "https://investor.apple.com/sec-filings/default.aspx",
+        "method": "serp",
+        "discovered_at": "2025-12-12T08:07:55.809016Z",
+        "pdfs": []
+      }
+    ]
+  },
+  "meta": {
+    "company": "Meta",
+    "cached_at": "2025-12-12T08:08:46.387643Z",
+    "candidates": [
+      {
+        "confidence": 0.9,
+        "url": "https://investor.atmeta.com/home/default.aspx",
+        "method": "serp",
+        "discovered_at": "2025-12-12T08:08:39.929413Z",
+        "pdfs": [
+          {
+            "score": 0.1,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.1
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Anti-Slavery and Human Trafficking Statement",
+            "pdf_url": "https://investor.atmeta.com/files/doc_downloads/2025/05/2025-anti-slavery-human-trafficking-statement-v2.pdf",
+            "final_url": "https://s21.q4cdn.com/399680738/files/doc_downloads/2025/05/2025-anti-slavery-human-trafficking-statement-v2.pdf",
+            "content_length": 300349,
+            "head_is_pdf": true
+          }
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "url": "https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm",
+        "method": "serp",
+        "discovered_at": "2025-12-12T08:08:39.929433Z",
+        "pdfs": []
+      }
+    ]
+  },
+  "tesla": {
+    "company": "Tesla",
+    "cached_at": "2025-12-12T09:59:44.339737Z",
+    "candidates": [
+      {
+        "confidence": 0.9,
+        "url": "https://ir.tesla.com",
+        "method": "serp",
+        "discovered_at": "2025-12-12T09:59:39.103098Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.3,
+        "url": "https://www.votetesla.com/resources/presentations",
+        "method": "serp_fallback",
+        "discovered_at": "2025-12-12T09:59:39.103113Z",
+        "pdfs": [
+          {
+            "score": 0.1,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.1
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Tesla Investor Presentation",
+            "pdf_url": "https://www.votetesla.com/wp-content/uploads/2025/10/Tesla-Shareholder-Presentation-10-6-25.pdf",
+            "final_url": "https://www.votetesla.com/wp-content/uploads/2025/10/Tesla-Shareholder-Presentation-10-6-25.pdf",
+            "content_length": 2269329,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.1,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.1
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "View here",
+            "pdf_url": "https://www.votetesla.com/wp-content/uploads/2025/10/Tesla-Shareholder-Presentation-10-6-25.pdf",
+            "final_url": "https://www.votetesla.com/wp-content/uploads/2025/10/Tesla-Shareholder-Presentation-10-6-25.pdf",
+            "content_length": 2269329,
+            "head_is_pdf": true
+          }
+        ]
+      }
+    ]
+  },
+  "nvida": {
+    "company": "NVIDA",
+    "cached_at": "2025-12-12T10:02:22.885542Z",
+    "candidates": [
+      {
+        "confidence": 0.9,
+        "url": "https://investor.nvidia.com/home/default.aspx",
+        "method": "serp",
+        "discovered_at": "2025-12-12T10:02:18.611282Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.9,
+        "url": "https://www.sec.gov/edgar/browse/?CIK=0001045810",
+        "method": "serp",
+        "discovered_at": "2025-12-12T10:02:18.611304Z",
+        "pdfs": []
+      }
+    ]
+  },
+  "walmart": {
+    "company": "Walmart",
+    "cached_at": "2025-12-12T10:14:07.187869Z",
+    "candidates": [
+      {
+        "confidence": 0.95,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001354457-25-001230/0001354457-25-001230.pdf",
+        "method": "sitemap_pdf",
+        "discovered_at": "2025-12-12T10:10:42.126514Z",
+        "pdfs": [
+          {
+            "score": 0.44999999999999996,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.44999999999999996
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "",
+            "pdf_url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001354457-25-001230/0001354457-25-001230.pdf",
+            "final_url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001354457-25-001230/0001354457-25-001230.pdf",
+            "content_length": null,
+            "head_is_pdf": true
+          }
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "url": "https://stock.walmart.com",
+        "method": "serp",
+        "discovered_at": "2025-12-12T10:10:42.126362Z",
+        "pdfs": [
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2025,
+            "anchor": "Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9949/annual_report/Walmart+2025+Annual+Report.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9949/annual_report/Walmart+2025+Annual+Report.pdf",
+            "content_length": null,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.65,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.65
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Transcript - Buy Side Follow Up Call PDF",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/transcript_buy_side_follow_up_call/Buyside+Investor+Call+Transcript+%28Q3+FY26%29.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/transcript_buy_side_follow_up_call/Buyside+Investor+Call+Transcript+%28Q3+FY26%29.pdf",
+            "content_length": 234455,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.35,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.35
+            },
+            "doc_type": "quarterly",
+            "year": null,
+            "anchor": "Earnings Release PDF",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/earnings_release/Earnings+Release+%28FY26+Q3%29.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/earnings_release/Earnings+Release+%28FY26+Q3%29.pdf",
+            "content_length": 459431,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.35,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.35
+            },
+            "doc_type": "quarterly",
+            "year": null,
+            "anchor": "Presentation PDF",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/presentation/Earnings+Presentation+%28FY26+Q3%29.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/presentation/Earnings+Presentation+%28FY26+Q3%29.pdf",
+            "content_length": 1320089,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.35,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.35
+            },
+            "doc_type": "quarterly",
+            "year": null,
+            "anchor": "Transcript - Management Call PDF",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/transcript_management_call/Earnings+Transcript+%28FY26+Q3%29.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/transcript_management_call/Earnings+Transcript+%28FY26+Q3%29.pdf",
+            "content_length": 324855,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.35,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.35
+            },
+            "doc_type": "quarterly",
+            "year": null,
+            "anchor": "Earnings Terminology PDF",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/earnings_terminology/Earnings+Terminology+%28FY26+Q3%29.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/earnings_terminology/Earnings+Terminology+%28FY26+Q3%29.pdf",
+            "content_length": 132354,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.35,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.35
+            },
+            "doc_type": "quarterly",
+            "year": null,
+            "anchor": "13-Week Comparable Sales PDF",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/13_week_comparable_sales/Comp+Sales+Disclosure+%28FY26+Q3%29.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/13_week_comparable_sales/Comp+Sales+Disclosure+%28FY26+Q3%29.pdf",
+            "content_length": 30580,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.35,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.35
+            },
+            "doc_type": "quarterly",
+            "year": null,
+            "anchor": "Unit Count & Square Footage PDF",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/unit_count_square_footage/Unit+Counts+and+Square+Footage+%28FY26+Q3%29.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/unit_count_square_footage/Unit+Counts+and+Square+Footage+%28FY26+Q3%29.pdf",
+            "content_length": 147805,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9949/proxy_statement/2025+Proxy+Statement.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9949/proxy_statement/2025+Proxy+Statement.pdf",
+            "content_length": 17501849,
+            "head_is_pdf": true
+          }
+        ]
+      },
+      {
+        "confidence": 0.9,
+        "url": "https://www.sec.gov/edgar/browse/?CIK=0000104169",
+        "method": "serp",
+        "discovered_at": "2025-12-12T10:10:42.126390Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.8,
+        "url": "https://corporate.walmart.com/investors/events",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126403Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.8,
+        "url": "https://corporate.walmart.com/purpose/esgreport",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126417Z",
+        "pdfs": [
+          {
+            "score": 0.85,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.85
+            },
+            "doc_type": "unknown",
+            "year": 2024,
+            "anchor": "2024 Environmental, Social and Governance Summary Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/FY2024-ESG-Report.pdf",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/FY2024-ESG-Report.pdf",
+            "content_length": 101968027,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.85,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.85
+            },
+            "doc_type": "unknown",
+            "year": 2022,
+            "anchor": "2022 Environmental, Social and Governance Summary Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-fy2022-esg-summary.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-fy2022-esg-summary.pdf?cid=esgreport",
+            "content_length": 10711338,
+            "head_is_pdf": false
+          },
+          {
+            "score": 0.85,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.85
+            },
+            "doc_type": "annual",
+            "year": 2021,
+            "anchor": "2021 Environmental, Social and Governance Summary Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-2021-esg-annual-summary.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-2021-esg-annual-summary.pdf?cid=esgreport",
+            "content_length": 15361349,
+            "head_is_pdf": false
+          },
+          {
+            "score": 0.85,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.85
+            },
+            "doc_type": "unknown",
+            "year": 2020,
+            "anchor": "2020 Environmental, Social and Governance Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/2020-environmental-social-and-governance-report.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/2020-environmental-social-and-governance-report.pdf?cid=esgreport",
+            "content_length": 15772303,
+            "head_is_pdf": false
+          },
+          {
+            "score": 0.6,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.6
+            },
+            "doc_type": "unknown",
+            "year": 2023,
+            "anchor": "2023 Environmental, Social and Governance Highlights",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/fy2023-walmart-esg-highlights.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/fy2023-walmart-esg-highlights.pdf?cid=esgreport",
+            "content_length": 4700060,
+            "head_is_pdf": false
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Walmart FY2025 ESG Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf?cid=esgreport",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Our People Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=10",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=10",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Supplier Opportunity Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=22",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=22",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Climate Resilience, Energy, and Emissions Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=26",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=26",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Regeneration of Natural Resources Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=37",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=37",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "FY2025  Walmart Sustainable Commodities Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Sustainable-Commodities-Report.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Sustainable-Commodities-Report.pdf?cid=esgreport",
+            "content_length": 1332067,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "FY2025 Walmart Foundation Nature-Related Grants",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Foundation-Nature-Related-Grants-FY2024-FY2025.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Foundation-Nature-Related-Grants-FY2024-FY2025.pdf?cid=esgreport",
+            "content_length": 154531,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Waste: Circular Economy Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=45",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=45",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "People in Supply Chains Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=53",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=53",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "FY2025 Walmart Worker Dignity in Retail Supply Chains",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Worker-Dignity-in-Retail-Supply-Chains.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Worker-Dignity-in-Retail-Supply-Chains.pdf?cid=esgreport",
+            "content_length": 2531712,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Animal Welfare Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=57",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=57",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Product Supply Chain Sustainability Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=59",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=59",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "FY2025  Walmart Sustainable Commodities Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Sustainable-Commodities-Report.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Sustainable-Commodities-Report.pdf?cid=esgreport",
+            "content_length": 1332067,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Serving Communities Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=63",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=63",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Safer, Healthier Products Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=68",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=68",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Disaster Preparedness and Response Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=71",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=71",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Corporate Governance Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=76",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=76",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Ethics and Compliance Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=80",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=80",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Responsible Use of Data and Technology Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=87",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=87",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Human Rights Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=90",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=90",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "FY2025 Walmart Worker Dignity in Retail Supply Chains",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Worker-Dignity-in-Retail-Supply-Chains.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Worker-Dignity-in-Retail-Supply-Chains.pdf?cid=esgreport",
+            "content_length": 2531712,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Responsible Engagement in Public Policy Full Report",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=96",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=96",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.55,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.55
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "FY2025 Walmart Key Trade Associations and Other Business Coalitions",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Key-Trade-Associations-and-Other-Business-Coalitions.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-Key-Trade-Associations-and-Other-Business-Coalitions.pdf?cid=esgreport",
+            "content_length": 590439,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.4,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.4
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Walmart Inc. 2025 Proxy Statement",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2025/04/24/walmart-releases-2025-annual-report-and-proxy-statement/walmart-inc-2025-proxy-statement.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2025/04/24/walmart-releases-2025-annual-report-and-proxy-statement/walmart-inc-2025-proxy-statement.pdf?cid=esgreport",
+            "content_length": 4971628,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.30000000000000004,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.30000000000000004
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Shared value",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=5",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/FY2025-Walmart-ESG-Report.pdf#page=5",
+            "content_length": 21725562,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.1,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.1
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Walmart Inc. 2025 CDP Response",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/2025-Walmart-CDP-Response.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/2025/2025-Walmart-CDP-Response.pdf?cid=esgreport",
+            "content_length": 272363,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.1,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.1
+            },
+            "doc_type": "unknown",
+            "year": 2024,
+            "anchor": "2024 EEO-1",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/resources-archives/eeo-1-filings/WMT-2024-EEO-1.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/resources-archives/eeo-1-filings/WMT-2024-EEO-1.pdf?cid=esgreport",
+            "content_length": 68319,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.1,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.1,
+              "final": 0.1
+            },
+            "doc_type": "unknown",
+            "year": 2023,
+            "anchor": "2023 EEO-1",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/resources-archives/eeo-1-filings/2023-EEO-1.pdf?cid=esgreport",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/esgreport/resources-archives/eeo-1-filings/2023-EEO-1.pdf?cid=esgreport",
+            "content_length": 45244,
+            "head_is_pdf": true
+          }
+        ]
+      },
+      {
+        "confidence": 0.8,
+        "url": "https://stock.walmart.com/financial-information/annual-reports",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126408Z",
+        "pdfs": [
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2025,
+            "anchor": "2025 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9949/annual_report/Walmart+2025+Annual+Report.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9949/annual_report/Walmart+2025+Annual+Report.pdf",
+            "content_length": null,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2024,
+            "anchor": "2024 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9651/annual_report/Walmart_2024-AR-10K_Searchable.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9651/annual_report/Walmart_2024-AR-10K_Searchable.pdf",
+            "content_length": 2706910,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2023,
+            "anchor": "2023 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9650/annual_report/Walmart-10K-Reports-Optimized.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9650/annual_report/Walmart-10K-Reports-Optimized.pdf",
+            "content_length": 1611721,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2022,
+            "anchor": "2022 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9649/annual_report/WMT-FY2022-Annual-Report.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9649/annual_report/WMT-FY2022-Annual-Report.pdf",
+            "content_length": 1858596,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2021,
+            "anchor": "2021 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9648/annual_report/WMT_2021_AnnualReport.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9648/annual_report/WMT_2021_AnnualReport.pdf",
+            "content_length": 2071736,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2020,
+            "anchor": "2020 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9647/annual_report/Walmart_2020_Annual_Report.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9647/annual_report/Walmart_2020_Annual_Report.pdf",
+            "content_length": 1860017,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2018,
+            "anchor": "2018 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9645/annual_report/WMT-2018_Annual-Report.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9645/annual_report/WMT-2018_Annual-Report.pdf",
+            "content_length": 1663248,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2017,
+            "anchor": "2017 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9644/annual_report/2017-annual.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9644/annual_report/2017-annual.pdf",
+            "content_length": 3060765,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2016,
+            "anchor": "2016 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9643/annual_report/2016-Annual-Report-PDF.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9643/annual_report/2016-Annual-Report-PDF.pdf",
+            "content_length": 6113761,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2015,
+            "anchor": "2015 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9642/annual_report/2015-annual-report.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9642/annual_report/2015-annual-report.pdf",
+            "content_length": 2809350,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2014,
+            "anchor": "2014 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9641/annual_report/2014-annual-report.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9641/annual_report/2014-annual-report.pdf",
+            "content_length": 5743085,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2013,
+            "anchor": "2013 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9640/annual_report/2013-annual-report-for-walmart-stores-inc_130221024708579502.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9640/annual_report/2013-annual-report-for-walmart-stores-inc_130221024708579502.pdf",
+            "content_length": 7277230,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2012,
+            "anchor": "2012 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9639/annual_report/2012-annual-report-for-walmart-stores-inc_130221023846998881.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9639/annual_report/2012-annual-report-for-walmart-stores-inc_130221023846998881.pdf",
+            "content_length": 4533991,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2012,
+            "anchor": "1985 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9612/annual_report/1985-annual-report-for-walmart-stores-inc_130199355771201213.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9612/annual_report/1985-annual-report-for-walmart-stores-inc_130199355771201213.pdf",
+            "content_length": 5555459,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2011,
+            "anchor": "2011 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9638/annual_report/2011-annual-report-for-walmart-stores-inc_130221022810084579.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9638/annual_report/2011-annual-report-for-walmart-stores-inc_130221022810084579.pdf",
+            "content_length": 6020763,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2011,
+            "anchor": "1994 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9621/annual_report/1994-annual-report-for-walmart-stores-inc_130199451433392011-%281%29.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9621/annual_report/1994-annual-report-for-walmart-stores-inc_130199451433392011-%281%29.pdf",
+            "content_length": 4997996,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2010,
+            "anchor": "2010 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9637/annual_report/2010-annual-report-for-walmart-stores-inc_130221021765802161-%281%29.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9637/annual_report/2010-annual-report-for-walmart-stores-inc_130221021765802161-%281%29.pdf",
+            "content_length": 14131933,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2010,
+            "anchor": "Enhanced Digital Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9670/file/2010-annual-report-for-walmart-stores-inc_130221021765802161.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9670/file/2010-annual-report-for-walmart-stores-inc_130221021765802161.pdf",
+            "content_length": 14131933,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2009,
+            "anchor": "2009 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9636/annual_report/2009-annual-report-for-walmart-stores-inc_130221020968947561.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9636/annual_report/2009-annual-report-for-walmart-stores-inc_130221020968947561.pdf",
+            "content_length": 1648669,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2008,
+            "anchor": "2008 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9635/annual_report/2008-annual-report-for-walmart-stores-inc_130221019979211599.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9635/annual_report/2008-annual-report-for-walmart-stores-inc_130221019979211599.pdf",
+            "content_length": 3353219,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2007,
+            "anchor": "2007 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9634/annual_report/2007-annual-report-for-walmart-stores-inc_130221018733842956.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9634/annual_report/2007-annual-report-for-walmart-stores-inc_130221018733842956.pdf",
+            "content_length": 1819430,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2006,
+            "anchor": "2006 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9633/annual_report/2006-annual-report-for-walmart-stores-inc_130202970623985117.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9633/annual_report/2006-annual-report-for-walmart-stores-inc_130202970623985117.pdf",
+            "content_length": 2010531,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2005,
+            "anchor": "2005 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9632/annual_report/2005-annual-report-for-walmart-stores-inc_130202966828901734.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9632/annual_report/2005-annual-report-for-walmart-stores-inc_130202966828901734.pdf",
+            "content_length": 2179216,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2004,
+            "anchor": "2004 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9631/annual_report/2004-annual-report-for-walmart-stores-inc_130202964084718876.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9631/annual_report/2004-annual-report-for-walmart-stores-inc_130202964084718876.pdf",
+            "content_length": 1584647,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2003,
+            "anchor": "2003 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9630/annual_report/2003-annual-report-for-walmart-stores-inc_130202953705906777.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9630/annual_report/2003-annual-report-for-walmart-stores-inc_130202953705906777.pdf",
+            "content_length": 3330112,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2002,
+            "anchor": "2002 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9629/annual_report/2002-annual-report-for-walmart-stores-inc_130202939459524585.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9629/annual_report/2002-annual-report-for-walmart-stores-inc_130202939459524585.pdf",
+            "content_length": 1137819,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2001,
+            "anchor": "2001 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9628/annual_report/2001-annual-report-for-walmart-stores-inc_130202938087042153.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9628/annual_report/2001-annual-report-for-walmart-stores-inc_130202938087042153.pdf",
+            "content_length": 2560746,
+            "head_is_pdf": true
+          },
+          {
+            "score": 1.0,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 1.0
+            },
+            "doc_type": "annual",
+            "year": 2000,
+            "anchor": "2000 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9627/annual_report/2000-annual-report-for-walmart-stores-inc_130199460083383743.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9627/annual_report/2000-annual-report-for-walmart-stores-inc_130199460083383743.pdf",
+            "content_length": 3745546,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1999 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9626/annual_report/1999-annual-report-for-walmart-stores-inc_130199459840185623.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9626/annual_report/1999-annual-report-for-walmart-stores-inc_130199459840185623.pdf",
+            "content_length": 2365785,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1998 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9625/annual_report/1998-annual-report-for-walmart-stores-inc_130199459510258743.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9625/annual_report/1998-annual-report-for-walmart-stores-inc_130199459510258743.pdf",
+            "content_length": 2837168,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1997 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9624/annual_report/1997-annual-report-for-walmart-stores-inc_130199458105727493.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9624/annual_report/1997-annual-report-for-walmart-stores-inc_130199458105727493.pdf",
+            "content_length": 2289727,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1996 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9623/annual_report/1996-annual-report-for-walmart-stores-inc_130199454711327644.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9623/annual_report/1996-annual-report-for-walmart-stores-inc_130199454711327644.pdf",
+            "content_length": 5234894,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1995 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9622/annual_report/1995-annual-report-for-walmart-stores-inc_130199451776663969.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9622/annual_report/1995-annual-report-for-walmart-stores-inc_130199451776663969.pdf",
+            "content_length": 4842298,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1993 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9620/annual_report/1993-annual-report-for-walmart-stores-inc_130199450994648281.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9620/annual_report/1993-annual-report-for-walmart-stores-inc_130199450994648281.pdf",
+            "content_length": 5015403,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1991 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9618/annual_report/1991-annual-report-for-walmart-stores-inc_130199433717905777.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9618/annual_report/1991-annual-report-for-walmart-stores-inc_130199433717905777.pdf",
+            "content_length": 6066769,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1990 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9617/annual_report/1990-annual-report-for-walmart-stores-inc_130199433401813051.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9617/annual_report/1990-annual-report-for-walmart-stores-inc_130199433401813051.pdf",
+            "content_length": 4798651,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1989 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9616/annual_report/1989-annual-report-for-walmart-stores-inc_130199395263663916.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9616/annual_report/1989-annual-report-for-walmart-stores-inc_130199395263663916.pdf",
+            "content_length": 5490813,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1988 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9615/annual_report/1988-annual-report-for-walmart-stores-inc_130199394950449861.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9615/annual_report/1988-annual-report-for-walmart-stores-inc_130199394950449861.pdf",
+            "content_length": 5557544,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1987 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9614/annual_report/1987-annual-report-for-walmart-stores-inc_130199394123994168.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9614/annual_report/1987-annual-report-for-walmart-stores-inc_130199394123994168.pdf",
+            "content_length": 6397328,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1986 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9613/annual_report/1986-annual-report-for-walmart-stores-inc_130199393790144787.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9613/annual_report/1986-annual-report-for-walmart-stores-inc_130199393790144787.pdf",
+            "content_length": 6104459,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1984 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9611/annual_report/1984-annual-report-for-walmart-stores-inc_130199350922812616.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9611/annual_report/1984-annual-report-for-walmart-stores-inc_130199350922812616.pdf",
+            "content_length": 5564242,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1983 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9610/annual_report/1983-annual-report-for-walmart-stores-inc_130199350362191765.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9610/annual_report/1983-annual-report-for-walmart-stores-inc_130199350362191765.pdf",
+            "content_length": 5956837,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1982 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9609/annual_report/1982-annual-report-for-walmart-stores-inc_130199348981657507.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9609/annual_report/1982-annual-report-for-walmart-stores-inc_130199348981657507.pdf",
+            "content_length": 5398028,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1981 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9608/annual_report/1981-annual-report-for-walmart-stores-inc_130199347668773347.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9608/annual_report/1981-annual-report-for-walmart-stores-inc_130199347668773347.pdf",
+            "content_length": 5278273,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.9,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.9
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1980 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9607/annual_report/1980-annual-report-for-walmart-stores-inc_130199346706999123.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9607/annual_report/1980-annual-report-for-walmart-stores-inc_130199346706999123.pdf",
+            "content_length": 5701464,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.8,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.8
+            },
+            "doc_type": "annual",
+            "year": 2019,
+            "anchor": "2019 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9646/annual_report/Walmart-2019-AR-Final.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9646/annual_report/Walmart-2019-AR-Final.pdf",
+            "content_length": 3148420,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.7000000000000001,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.7000000000000001
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "1992 Annual Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9619/annual_report/1992_130199446777132719.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9619/annual_report/1992_130199446777132719.pdf",
+            "content_length": 3654603,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.7,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.7
+            },
+            "doc_type": "unknown",
+            "year": 2018,
+            "anchor": "Global Ethics & Compliance Program Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9695/file/2018-Global-Ethics-Compliance-Program-Report-%281%29.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9695/file/2018-Global-Ethics-Compliance-Program-Report-%281%29.pdf",
+            "content_length": 1354026,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.7,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.7
+            },
+            "doc_type": "unknown",
+            "year": 2017,
+            "anchor": "Global Responsibility Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9691/file/WMT_2017-GRR-Report.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9691/file/WMT_2017-GRR-Report.pdf",
+            "content_length": 12011557,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.7,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.7
+            },
+            "doc_type": "unknown",
+            "year": 2015,
+            "anchor": "Global Responsibility Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9681/file/2015-global-responsibility-report.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9681/file/2015-global-responsibility-report.pdf",
+            "content_length": 19107489,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.7,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.7
+            },
+            "doc_type": "unknown",
+            "year": 2014,
+            "anchor": "Global Responsibility Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9677/file/2014-global-responsibility-report.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9677/file/2014-global-responsibility-report.pdf",
+            "content_length": 8664626,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.5499999999999999,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.5499999999999999
+            },
+            "doc_type": "unknown",
+            "year": 2003,
+            "anchor": "Financials",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9662/file/2003-financials-for-walmart-stores-inc_130202954061839721.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9662/file/2003-financials-for-walmart-stores-inc_130202954061839721.pdf",
+            "content_length": 2487618,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.5499999999999999,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.5499999999999999
+            },
+            "doc_type": "unknown",
+            "year": 2002,
+            "anchor": "Financials",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9660/file/2002-financials-for-walmart-stores-inc_130202939945612113.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9660/file/2002-financials-for-walmart-stores-inc_130202939945612113.pdf",
+            "content_length": 640275,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.5499999999999999,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.5499999999999999
+            },
+            "doc_type": "unknown",
+            "year": 2001,
+            "anchor": "Financials",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9658/file/2001-financials-for-walmart-stores-inc_130202938614847897.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9658/file/2001-financials-for-walmart-stores-inc_130202938614847897.pdf",
+            "content_length": 248220,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.5499999999999999,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.5499999999999999
+            },
+            "doc_type": "unknown",
+            "year": 2000,
+            "anchor": "Financials",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9657/file/2000-financials-for-walmart-stores-inc_130199460517668279.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9657/file/2000-financials-for-walmart-stores-inc_130199460517668279.pdf",
+            "content_length": 138111,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.5,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.5
+            },
+            "doc_type": "unknown",
+            "year": 2018,
+            "anchor": "Global Responsibility Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9697/file/WAL-071_2018_GRR_Full_Book%5B1%5D.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9697/file/WAL-071_2018_GRR_Full_Book%5B1%5D.pdf",
+            "content_length": 9197160,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.5,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.25,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.5
+            },
+            "doc_type": "unknown",
+            "year": 2016,
+            "anchor": "Global Responsibility Report",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9687/file/WMT_2016GRR.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9687/file/WMT_2016GRR.pdf",
+            "content_length": 9501446,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.44999999999999996,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.44999999999999996
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Financials",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9655/file/1997-financials-for-walmart-stores-inc_130199459325823791.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9655/file/1997-financials-for-walmart-stores-inc_130199459325823791.pdf",
+            "content_length": 213226,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.44999999999999996,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.44999999999999996
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Financials",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9654/file/1996-financials-for-walmart-stores-inc_130199453876335167.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9654/file/1996-financials-for-walmart-stores-inc_130199453876335167.pdf",
+            "content_length": 3071918,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.35,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.35
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Letter from the CEO",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9952/file/FY25+CEO+Letter+to+Shareholders.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9952/file/FY25+CEO+Letter+to+Shareholders.pdf",
+            "content_length": 457244,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.35,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.35
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Letter from the CEO",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9708/file/FY23-CEO-Letter-to-Shareholders.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9708/file/FY23-CEO-Letter-to-Shareholders.pdf",
+            "content_length": 460458,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2025,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9949/proxy_statement/2025+Proxy+Statement.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9949/proxy_statement/2025+Proxy+Statement.pdf",
+            "content_length": 17501849,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2023,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9650/proxy_statement/2023-proxy-statement.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9650/proxy_statement/2023-proxy-statement.pdf",
+            "content_length": 17457656,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2022,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9705/file/FINAL-WALMART-INC-2022-Proxy-Ballot-Watermarked.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9705/file/FINAL-WALMART-INC-2022-Proxy-Ballot-Watermarked.pdf",
+            "content_length": 638077,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2021,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9648/proxy_statement/WMT-2021-Proxy-Statement-Web-Ready-PDF.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9648/proxy_statement/WMT-2021-Proxy-Statement-Web-Ready-PDF.pdf",
+            "content_length": 5451663,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2021,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9703/file/Sample-Proxy-Card-2021.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9703/file/Sample-Proxy-Card-2021.pdf",
+            "content_length": 635448,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2020,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9647/proxy_statement/2020-Proxy.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9647/proxy_statement/2020-Proxy.pdf",
+            "content_length": 4720815,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2020,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9701/file/SAMPLE-WALMART-INC.-PROXY-CARD-FINAL-2020.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9701/file/SAMPLE-WALMART-INC.-PROXY-CARD-FINAL-2020.pdf",
+            "content_length": 669338,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2019,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9699/file/SAMPLE-2019-Proxy-Ballot.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9699/file/SAMPLE-2019-Proxy-Ballot.pdf",
+            "content_length": 650871,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2018,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9645/proxy_statement/58888_Walmart_2018_Proxy_Bookmarked.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9645/proxy_statement/58888_Walmart_2018_Proxy_Bookmarked.pdf",
+            "content_length": 5279054,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2018,
+            "anchor": "GRR Executive Summary",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9698/file/WMT-2018-GRR-Summary-for-digital.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9698/file/WMT-2018-GRR-Summary-for-digital.pdf",
+            "content_length": 5883940,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2017,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9644/proxy_statement/2017-proxy.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9644/proxy_statement/2017-proxy.pdf",
+            "content_length": 3776418,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2017,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9688/file/2017-proxy-ballot.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9688/file/2017-proxy-ballot.pdf",
+            "content_length": 530310,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2017,
+            "anchor": "GRR Executive Summary",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9692/file/WMT-2017_GRR_SUMMARY-FINAL.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9692/file/WMT-2017_GRR_SUMMARY-FINAL.pdf",
+            "content_length": 3384095,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2015,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9642/proxy_statement/2015-proxy-statement.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9642/proxy_statement/2015-proxy-statement.pdf",
+            "content_length": 4636263,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2015,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9679/file/2015-sample-proxy-ballot.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9679/file/2015-sample-proxy-ballot.pdf",
+            "content_length": 548106,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2015,
+            "anchor": "GRR Executive Summary",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9683/file/Revised-2015-GRR-Executive-Summary-5-13-15.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9683/file/Revised-2015-GRR-Executive-Summary-5-13-15.pdf",
+            "content_length": 3758768,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2014,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9641/proxy_statement/2014-proxy-statement.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9641/proxy_statement/2014-proxy-statement.pdf",
+            "content_length": 2992377,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2014,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9674/file/2014-proxy-ballot.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9674/file/2014-proxy-ballot.pdf",
+            "content_length": 487463,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2013,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9640/proxy_statement/2013-proxy-statement-for-walmart-stores-inc_130221025125760317.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9640/proxy_statement/2013-proxy-statement-for-walmart-stores-inc_130221025125760317.pdf",
+            "content_length": 3619012,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2013,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9673/file/2013-proxy-ballot-for-walmart-stores-inc_130221025440754269.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9673/file/2013-proxy-ballot-for-walmart-stores-inc_130221025440754269.pdf",
+            "content_length": 489330,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2012,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9639/proxy_statement/2012-proxy-statement-for-walmart-stores-inc_130221024194646231.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9639/proxy_statement/2012-proxy-statement-for-walmart-stores-inc_130221024194646231.pdf",
+            "content_length": 410756,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2012,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9672/file/2012-proxy-ballot-for-walmart-stores-inc_130221024513856809.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9672/file/2012-proxy-ballot-for-walmart-stores-inc_130221024513856809.pdf",
+            "content_length": 99142,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2011,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9638/proxy_statement/2011-proxy-statement-for-walmart-stores-inc_130221023203045705.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9638/proxy_statement/2011-proxy-statement-for-walmart-stores-inc_130221023203045705.pdf",
+            "content_length": 1263649,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2011,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9671/file/2011-proxy-ballot-for-walmart-stores-inc_130221023655285039.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9671/file/2011-proxy-ballot-for-walmart-stores-inc_130221023655285039.pdf",
+            "content_length": 239474,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2010,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9637/proxy_statement/2010-proxy-statement-for-walmart-stores-inc_130221022355965651.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9637/proxy_statement/2010-proxy-statement-for-walmart-stores-inc_130221022355965651.pdf",
+            "content_length": 524272,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2010,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9669/file/2010-proxy-ballot-for-walmart-stores-inc_130221022620023081.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9669/file/2010-proxy-ballot-for-walmart-stores-inc_130221022620023081.pdf",
+            "content_length": 236190,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2009,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9636/proxy_statement/2009-proxy-statement-for-walmart-stores-inc_130221021248940393.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9636/proxy_statement/2009-proxy-statement-for-walmart-stores-inc_130221021248940393.pdf",
+            "content_length": 383251,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2009,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9668/file/2009-proxy-ballot-for-walmart-stores-inc_130221021501902667.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9668/file/2009-proxy-ballot-for-walmart-stores-inc_130221021501902667.pdf",
+            "content_length": 239655,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2008,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9635/proxy_statement/2008-proxy-statement-for-walmart-stores-inc_130221020433023781.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9635/proxy_statement/2008-proxy-statement-for-walmart-stores-inc_130221020433023781.pdf",
+            "content_length": 746805,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2008,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9667/file/2008-proxy-ballot-for-walmart-stores-inc_130221020677080033.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9667/file/2008-proxy-ballot-for-walmart-stores-inc_130221020677080033.pdf",
+            "content_length": 37575,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2007,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9634/proxy_statement/2007-proxy-statement-for-walmart-stores-inc_130221019374612548.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9634/proxy_statement/2007-proxy-statement-for-walmart-stores-inc_130221019374612548.pdf",
+            "content_length": 949134,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2007,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9666/file/2007-proxy-ballot-for-walmart-stores-inc_130221019606795590.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9666/file/2007-proxy-ballot-for-walmart-stores-inc_130221019606795590.pdf",
+            "content_length": 72900,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2006,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9633/proxy_statement/2006-proxy-statement-for-walmart-stores-inc_130202971948960701.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9633/proxy_statement/2006-proxy-statement-for-walmart-stores-inc_130202971948960701.pdf",
+            "content_length": 634204,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2006,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9665/file/2006-proxy-ballot-for-walmart-stores-inc_130202971726152479.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9665/file/2006-proxy-ballot-for-walmart-stores-inc_130202971726152479.pdf",
+            "content_length": 71649,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2005,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9632/proxy_statement/2005-proxy-statement-for-walmart-stores-inc_130202969733827641.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9632/proxy_statement/2005-proxy-statement-for-walmart-stores-inc_130202969733827641.pdf",
+            "content_length": 479072,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2005,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9664/file/2005-proxy-ballot-for-walmart-stores-inc_130202967642135665.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9664/file/2005-proxy-ballot-for-walmart-stores-inc_130202967642135665.pdf",
+            "content_length": 38538,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2004,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9631/proxy_statement/2004-proxy-statement-for-walmart-stores-inc_130202964628423217.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9631/proxy_statement/2004-proxy-statement-for-walmart-stores-inc_130202964628423217.pdf",
+            "content_length": 349266,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2004,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9663/file/2004-proxy-ballot-for-walmart-stores-inc_130202964382332617.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9663/file/2004-proxy-ballot-for-walmart-stores-inc_130202964382332617.pdf",
+            "content_length": 260501,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2003,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9630/proxy_statement/2003-proxy-statement-for-walmart-stores-inc_130202954729799921.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9630/proxy_statement/2003-proxy-statement-for-walmart-stores-inc_130202954729799921.pdf",
+            "content_length": 846911,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2003,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9661/file/2003-proxy-ballot-for-walmart-stores-inc_130202954441557988.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9661/file/2003-proxy-ballot-for-walmart-stores-inc_130202954441557988.pdf",
+            "content_length": 46497,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2002,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9629/proxy_statement/2002-proxy-statement-for-walmart-stores-inc_130202940937318169.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9629/proxy_statement/2002-proxy-statement-for-walmart-stores-inc_130202940937318169.pdf",
+            "content_length": 644587,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2002,
+            "anchor": "Proxy Amendment",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9659/file/2002-proxy-statement-amendment-for-walmart-stores-inc_130202940633136892.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9659/file/2002-proxy-statement-amendment-for-walmart-stores-inc_130202940633136892.pdf",
+            "content_length": 252682,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.25,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.25
+            },
+            "doc_type": "unknown",
+            "year": 2001,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9628/proxy_statement/2001-proxy-statement-for-walmart-stores-inc_130202939017811489.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9628/proxy_statement/2001-proxy-statement-for-walmart-stores-inc_130202939017811489.pdf",
+            "content_length": 1114856,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9950/file/Proxy+Ballot.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9950/file/Proxy+Ballot.pdf",
+            "content_length": 76037,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Notice",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9951/file/WALMART+INC._V_N%26A_Z89460_P27000_P26298_25%28%2386751%29++-+C4.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9951/file/WALMART+INC._V_N%26A_Z89460_P27000_P26298_25%28%2386751%29++-+C4.pdf",
+            "content_length": 145908,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9651/proxy_statement/proxy-statement.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9651/proxy_statement/proxy-statement.pdf",
+            "content_length": 17468053,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9709/file/proxy-ballot.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9709/file/proxy-ballot.pdf",
+            "content_length": 73990,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Notice",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9710/file/proxy-notice.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9710/file/proxy-notice.pdf",
+            "content_length": 153838,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Letter from the CEO",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9711/file/letter-from-the-ceo.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9711/file/letter-from-the-ceo.pdf",
+            "content_length": 108899,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9707/file/SampleProxyBallot.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9707/file/SampleProxyBallot.pdf",
+            "content_length": 637668,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9649/proxy_statement/396240%281%29_34_Walmart_NPS_WR.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9649/proxy_statement/396240%281%29_34_Walmart_NPS_WR.pdf",
+            "content_length": 12623660,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9646/proxy_statement/348234%281%29_20_Walmart_NPS_WR.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9646/proxy_statement/348234%281%29_20_Walmart_NPS_WR.pdf",
+            "content_length": 4870912,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9693/file/Proxy-Ballot-WATERMARKED.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9693/file/Proxy-Ballot-WATERMARKED.pdf",
+            "content_length": 527204,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9643/proxy_statement/Proxy-Statement.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9643/proxy_statement/Proxy-Statement.pdf",
+            "content_length": 7255266,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Ballot",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9684/file/Proxy-Ballot.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/951/9684/file/Proxy-Ballot.pdf",
+            "content_length": 501359,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.15,
+            "reason": {
+              "s_url": 0.0,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.15
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Proxy Statement",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9627/proxy_statement/200-proxy-statement-for-walmart-stores-inc_130199460853909671.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9627/proxy_statement/200-proxy-statement-for-walmart-stores-inc_130199460853909671.pdf",
+            "content_length": 2630941,
+            "head_is_pdf": true
+          }
+        ]
+      },
+      {
+        "confidence": 0.8,
+        "url": "https://stock.walmart.com/sec-filings/annual-reports",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126398Z",
+        "pdfs": [
+          {
+            "score": 0.7000000000000001,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.7000000000000001
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "Form ARS: Annual Report to Security Holders",
+            "pdf_url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000059/0000104169-25-000059.pdf",
+            "final_url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000059/0000104169-25-000059.pdf",
+            "content_length": null,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.7000000000000001,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.7000000000000001
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "Form ARS: Annual report to security holders",
+            "pdf_url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-24-000081/0000104169-24-000081.pdf",
+            "final_url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-24-000081/0000104169-24-000081.pdf",
+            "content_length": 0,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.7000000000000001,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.25,
+              "s_fname": 0.0,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.7000000000000001
+            },
+            "doc_type": "annual",
+            "year": null,
+            "anchor": "Form ARS: Annual report to security holders",
+            "pdf_url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-23-000037/0000104169-23-000037.pdf",
+            "final_url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-23-000037/0000104169-23-000037.pdf",
+            "content_length": 0,
+            "head_is_pdf": true
+          }
+        ]
+      },
+      {
+        "confidence": 0.8,
+        "url": "https://stock.walmart.com/sec-filings/quarterly-reports",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126413Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/financial-information/vizio-historical-financials",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126464Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126473Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000181/wk-form4_1764106924.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126574Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000183/primary_doc.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126570Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000186/wk-form4_1764712476.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126556Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000191/wmt-20251031.htm",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126482Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000193/irannotice123.htm",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126537Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000199/form8-axdecember2025.htm",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126523Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000201/form25-december2025.htm",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126519Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000203/wk-form4_1765233858.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126510Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001335782-25-000014/wk-form4_1764713871.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126551Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001502438-25-000013/wk-form4_1764193511.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126561Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001547433-25-000011/wk-form4_1764713924.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126547Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001696737-25-000011/wk-form4_1764025685.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126588Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001958244-25-004479/primary_doc.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126579Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001958244-25-004506/primary_doc.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126542Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001958244-25-004515/primary_doc.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126528Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001959173-25-007266/primary_doc.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126584Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001959173-25-007310/primary_doc.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126565Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0001992808-25-000011/wk-form4_1764885416.html",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126533Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.75,
+        "url": "https://stock.walmart.com/sec-filings/section-16-filings",
+        "method": "sitemap_page",
+        "discovered_at": "2025-12-12T10:10:42.126487Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.66,
+        "url": "https://corporate.walmart.com/about/board-of-directors",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126422Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.66,
+        "url": "https://corporate.walmart.com/news/2025/11/25/walmart-leadership-to-participate-in-upcoming-investor-events1",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126427Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.66,
+        "url": "https://corporate.walmart.com/privacy-security",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126431Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.66,
+        "url": "https://corporate.walmart.com/privacy-security/california-privacy-rights",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126436Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.66,
+        "url": "https://corporate.walmart.com/privacy-security/fraud-alerts",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126440Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.66,
+        "url": "https://corporate.walmart.com/suppliers/requirements",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126445Z",
+        "pdfs": [
+          {
+            "score": 0.3,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.0,
+              "final": 0.3
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Français",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/standards-for-suppliers-french.pdf",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/standards-for-suppliers-french.pdf",
+            "content_length": 13973463,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.3,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.0,
+              "final": 0.3
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Español",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/standards-for-suppliers-spanish.pdf",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/standards-for-suppliers-spanish.pdf",
+            "content_length": 14157510,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.3,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.0,
+              "final": 0.3
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "中国简体字",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/standards-for-suppliers-chinese-simplified.pdf",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/standards-for-suppliers-chinese-simplified.pdf",
+            "content_length": 14591740,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.3,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.0,
+              "final": 0.3
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "中國繁體字",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/standards-for-suppliers-chinese-traditional.pdf",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/standards-for-suppliers-chinese-traditional.pdf",
+            "content_length": 14444500,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.3,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.0,
+              "final": 0.3
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "insurance requirements for suppliers",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/insurance-requirements.pdf",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/insurance-requirements.pdf",
+            "content_length": 166386,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.3,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.0,
+              "final": 0.3
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "supplier liability index matrix",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/supplier-liability-insurance-matrix.pdf",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/supplier-liability-insurance-matrix.pdf",
+            "content_length": 218069,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.3,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.0,
+              "final": 0.3
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "supply chain packaging guide",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/supply-chain-packaging-guide.pdf",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/supply-chain-packaging-guide.pdf",
+            "content_length": 20788927,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.3,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.0,
+              "final": 0.3
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Walmart supply chain packaging guide",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/supply-chain-packaging-guide.pdf",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/supply-chain-packaging-guide.pdf",
+            "content_length": 20788927,
+            "head_is_pdf": true
+          },
+          {
+            "score": 0.3,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.0,
+              "s_sitemap": 0.0,
+              "s_year": 0.0,
+              "final": 0.3
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "Sam’s Club structural packaging standards",
+            "pdf_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/sams-club-structural-packaging-standards.pdf",
+            "final_url": "https://corporate.walmart.com/content/dam/corporate/documents/suppliers/requirements/sams-club-structural-packaging-standards.pdf",
+            "content_length": 7133135,
+            "head_is_pdf": true
+          }
+        ]
+      },
+      {
+        "confidence": 0.66,
+        "url": "https://cpa-ui.walmart.com/affirmation?native=false&app=gm&brandCode=WMT&requestType=optout",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126450Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.66,
+        "url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/transcript_buy_side_follow_up_call/Buyside+Investor+Call+Transcript+%28Q3+FY26%29.pdf",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126455Z",
+        "pdfs": [
+          {
+            "score": 0.65,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.0,
+              "final": 0.65
+            },
+            "doc_type": "unknown",
+            "year": null,
+            "anchor": "",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/transcript_buy_side_follow_up_call/Buyside+Investor+Call+Transcript+%28Q3+FY26%29.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/938/9966/transcript_buy_side_follow_up_call/Buyside+Investor+Call+Transcript+%28Q3+FY26%29.pdf",
+            "content_length": 0,
+            "head_is_pdf": true
+          }
+        ]
+      },
+      {
+        "confidence": 0.66,
+        "url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9949/annual_report/Walmart+2025+Annual+Report.pdf",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126459Z",
+        "pdfs": [
+          {
+            "score": 0.75,
+            "reason": {
+              "s_url": 0.3,
+              "s_anchor": 0.0,
+              "s_fname": 0.2,
+              "s_sitemap": 0.15,
+              "s_year": 0.1,
+              "final": 0.75
+            },
+            "doc_type": "annual",
+            "year": 2025,
+            "anchor": "",
+            "pdf_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9949/annual_report/Walmart+2025+Annual+Report.pdf",
+            "final_url": "https://stock.walmart.com/_assets/_1bb8710bd2d32b8416cdfd68dd533e16/walmart/db/950/9949/annual_report/Walmart+2025+Annual+Report.pdf",
+            "content_length": 0,
+            "head_is_pdf": true
+          }
+        ]
+      },
+      {
+        "confidence": 0.66,
+        "url": "https://stock.walmart.com/sec-filings",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126469Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.66,
+        "url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-25-000191/0000104169-25-000191-xbrl.zip",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126478Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.66,
+        "url": "mailto:IR@walmart.com",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126491Z",
+        "pdfs": [],
+        "errors": [
+          "No connection adapters were found for 'mailto:IR@walmart.com'"
+        ]
+      },
+      {
+        "confidence": 0.6000000000000001,
+        "url": "https://corporate.walmart.com/news/2025/12/09/walmart-debuts-on-nasdaq-marking-Its-1st-day-of-trading",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126496Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.6000000000000001,
+        "url": "https://stock.walmart.com/company-information/faq",
+        "method": "homepage_scan",
+        "discovered_at": "2025-12-12T10:10:42.126500Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.5,
+        "url": "https://stock.walmart.com/investors",
+        "method": "probe_path",
+        "discovered_at": "2025-12-12T10:10:42.126505Z",
+        "pdfs": []
+      }
+    ]
+  },
+  "nvidia": {
+    "company": "NVIDIA",
+    "cached_at": "2025-12-12T10:19:06.725556Z",
+    "candidates": [
+      {
+        "confidence": 0.9,
+        "url": "https://investor.nvidia.com/home/default.aspx",
+        "method": "serp",
+        "discovered_at": "2025-12-12T10:19:03.806710Z",
+        "pdfs": []
+      },
+      {
+        "confidence": 0.9,
+        "url": "https://www.sec.gov/edgar/browse/?CIK=0001045810",
+        "method": "serp",
+        "discovered_at": "2025-12-12T10:19:03.806734Z",
+        "pdfs": []
+      }
+    ]
+  }
+}
